@@ -13,22 +13,23 @@ Hi, I'm Sharan K. I kicked off my programming journey with **C++** in 11th grade
 
 ## Skills
 
-- **Programming Languages**: Scala 🧑‍💻, Python 🐍, C++ 💻
-- **Web Development**: API Development 🌐, RESTful Services 🔗, Microservices Architecture 🏗️
-- **Databases**: Redis 🔴, PostgreSQL 🐘, DynamoDB ⚡, S3 (File Storage) ☁️
-- **Containerization & Orchestration**: Docker 🐋
-- **Asynchronous Processing**: Celery 🐝 (Queueing Systems)
-- **Machine Learning**: Data Extraction using LLMs (Large Language Models) 🤖
-- **Version Control**: Git 🧑‍💻 (Collaborative Development, Code Management)
-- **Testing**: ScalaTest 🧪, Pytest 🧪
-- **Soft Skills**: Decision-making under Pressure ⚖️, Effective Time Management ⏱️, Proactive Problem-solving 💡
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=scala,python,cpp,redis,postgres,aws,kafka,docker,git,react,html,css" />
+  </a>
+</p>
 
 > ⚠️ **Note**: Don't get confused by the cover photo! It's just a small tribute to the tools I work with the most. My skillset is much more diverse and constantly evolving.
 
-## Organizations I've Worked With
+## Organizations I've worked with
 
-<p align="center">
-  <img src="assets/logos/itech_logo.jpeg" alt="Itech" width="100" height="100"/>
-  <img src="assets/logos/PragRobotics_logo.png" alt="Prag Robotics" width="100" height="100"/>
+<p align="leftA">
+  <a href="https://itechindia.co" target="_blank">
+    <img src="assets/logos/itech_logo.jpeg" alt="Itech" width="100" height="100";"/>
+  </a>
+  <a href="https://www.pragrobotics.com/index.aspx" target="_blank">
+    <img src="assets/logos/PragRobotics_logo.png" alt="Prag Robotics" width="100" height="100";"/>
+  </a>
 </p>
+
 
