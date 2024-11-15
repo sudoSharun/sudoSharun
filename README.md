@@ -13,9 +13,9 @@ Hi, I'm Sharan K. I kicked off my programming journey with **C++** in 11th grade
 
 ## Skills
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=scala,python,cpp,redis,postgres,aws,kafka,docker,git,react,html,css" />
+    <img src="https://skillicons.dev/icons?i=scala,python,cpp,redis,postgres,aws,linux,docker,git,kafka"/>
   </a>
 </p>
 
