@@ -25,4 +25,10 @@ Hi, I'm Sharan K. I kicked off my programming journey with **C++** in 11th grade
 
 > ⚠️ **Note**: Don't get confused by the cover photo! It's just a small tribute to the tools I work with the most. My skillset is much more diverse and constantly evolving.
 
+## Organizations I've Worked With
+
+<p align="center">
+  <img src="assets/logos/itech_logo.jpeg" alt="Itech" width="100" height="100"/>
+  <img src="assets/logos/PragRobotics_logo.png" alt="Prag Robotics" width="100" height="100"/>
+</p>
 
